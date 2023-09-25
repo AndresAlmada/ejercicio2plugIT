@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(164, 182, 182);
+}
+
+
+.tabla {
+    display: flex;
+    justify-content: center;
+  }
+
+#table {
+    border: red 3px solid;
+    font-size: 36px;
+    color: yellow;
+    text-align: center;
+  }
+
+thead tr th {
+    border: rgb(23, 167, 23) 5px solid;
+    background-color: rgb(56, 56, 56);
+    padding: 25px;
+}
+
+td {
+    border: rgb(3, 0, 173) 5px solid;
+    background-color: black;
+    padding: 15px;
+  }
